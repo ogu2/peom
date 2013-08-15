@@ -4,3 +4,4 @@ for x in res['data']:
     if 'message' in x:
         print x['message']
         print '*'*40
+# trying this out from prose.io
